@@ -1,0 +1,26 @@
+{
+  "name": "angularjs-boilerplate",
+  "version": "1.0.0",
+  "description": "boiler plate for angularJs with webpack bundling",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlekseyChepurko/AngularJS-boilerplate.git"
+  },
+  "keywords": [
+    "angularjs",
+    "webpack",
+    "boilerplate"
+  ],
+  "author": "Aleskei Chepurko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlekseyChepurko/AngularJS-boilerplate/issues"
+  },
+  "homepage": "https://github.com/AlekseyChepurko/AngularJS-boilerplate#readme"
+}
